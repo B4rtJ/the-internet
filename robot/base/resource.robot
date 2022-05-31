@@ -7,7 +7,7 @@ Documentation     A resource file with reusable keywords and variables.
 Library           SeleniumLibrary
 
 *** Variables ***
-${SERVER}         the-internet.herokuapp.com
+${SERVER}         http://172.26.160.140/7082:5000
 ${BROWSER}        Google Chrome
 ${DELAY}          0
 ${VALID USER}     tomsmith
